@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config.data.sdcard.offline.dir">GIS/data</string>
+    <!--<string name="config.mmpk.name">Sagwan</string>-->
+    <!--<string name="config.mmpk.name">Lodhiqra</string>-->
+    <string name="config.mmpk.name">test</string>
+    <!--<string name="config.mmpk.name">m91</string>-->
+    <string name="config.tpk.name">Punjab</string>
+</resources>
